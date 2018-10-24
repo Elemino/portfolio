@@ -2,7 +2,7 @@ function LinkedList() {
     this.head = null;
 };
 
-LinkedList.prototype.add (value) => {
+LinkedList.prototype.add = (value) => {
     let node = {
         value: value,
         next: null
