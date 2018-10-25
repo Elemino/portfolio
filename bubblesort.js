@@ -13,7 +13,19 @@ function bubblesort (item) {
          if(items[secondLoopPosition] > items[seocondLoopPosition+1]) {
              console.log("comparing numbers " + items[secondLoopPosition+1] + " at index " + items.indexOf(items[secondLoopsPosition+1]) + ' and ' items[secondLoopPosition])
              console.log(items)
-         }
+
+
+        let temp = items[secondLoopPosition];
+        items[secondLoopPosition] = items[secondLoopPosition+1];
+        items[secondLoopPosition] = temp;
+
+        }else {
+
+            console.log("comparing numbers " + items[secondLoopPosition+1] +" at index " + items.indexOf(items[items{secondLoopPostion+1}]))
+            console.log(items)
+        }
+       }
      }
    }
-}
+   console.log(items)
+ }
