@@ -13,7 +13,6 @@ ES6 and for loops (map,filter,reduce to be added later on)
 
 ### Data Structures: ###
 
-Markup : - [x] Bubblesort 
-         - [x]  Linkedlist
-
+Markup : - [] Bubblesort 
+         - [] Linkedlist
          - [] More to be added soon! 
