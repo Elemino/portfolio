@@ -17,4 +17,4 @@ Markup :
 
 - [x] Bubblesort 
 - [x] Linkedlist
-- [] More to be added soon! 
+- [ ] More to be added soon! 
