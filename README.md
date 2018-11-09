@@ -17,4 +17,5 @@ ES6 and for loops (map,filter,reduce to be added later on)
 
 - [x] Bubblesort 
 - [x] Linkedlist
+- [x] Fibonacci
 - [ ] More to be added soon!
