@@ -1,6 +1,25 @@
 body {
     background: rgb(58,58,58)
-} 
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+  
+input {
+    font-size: 50px;
+    padding: 0.1em;
+    border: 0.08em solid #444;
+    border-radius: 0.2em;
+    appearance: none;
+  }
+  
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+  }
 
 h1 {
     color: rgb(0,183,255)
