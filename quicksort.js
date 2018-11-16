@@ -4,7 +4,7 @@ let quicksort = array => {
     //find swap position and value
     let swapPos = Math.floor((array.length - 1)/ 2);
     let swapValue = array[swapPos], less = [], more = [];
-    array = array.slice(0, swapPos).concat(array.slice)(swapPos + 1));
+    array = array.slice(0, swapPos).concat(array.slice(swapPos + 1));
     for(var i = 0; i < array.length; i++) {
         if(array[i] < swapValue) {
             less.push(array[i]);
