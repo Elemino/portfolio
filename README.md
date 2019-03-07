@@ -18,4 +18,5 @@ ES6 and for loops (map,filter,reduce to be added later on)
 - [x] Linkedlist
 - [x] Fibonacci
 - [x] Quicksort
+- [ ] Binary tree
 - [ ] More to be added soon!
