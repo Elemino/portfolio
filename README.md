@@ -14,9 +14,13 @@ ES6 and for loops (map,filter,reduce to be added later on)
 
 
 
-- [x] Bubblesort 
+
 - [x] Linkedlist
 - [x] Fibonacci
+
+Advanced: 
+
+- [x] Bubblesort 
 - [x] Quicksort
 - [ ] Binary tree
 - [ ] More to be added soon!

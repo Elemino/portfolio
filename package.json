@@ -9,10 +9,10 @@
   "main": "module.js",
   "dependencies": {
     "babel-preset-stage-3": "^6.24.1",
-    "sass": "^1.14.3"
+    "sass": "^1.17.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2"
+    "@babel/core": "^7.4.0"
   },
   "repository": {
     "type": "git",
