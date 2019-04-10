@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "name": "portfolio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "module.js",
+  "dependencies": {
+    "babel-preset-stage-3": "^6.24.1",
+    "sass": "^1.17.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elemino/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elemino/portfolio/issues"
+  },
+  "homepage": "https://github.com/Elemino/portfolio#readme"
+}
