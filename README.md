@@ -8,8 +8,8 @@ ParcelJS
 
 ## Features: ## 
 
-ES6 and for loops (map,filter,reduce to be added later on)
-Types 
+* ES6 and for loops (map,filter,reduce to be added later on)
+* Types 
 
 ### Data Structures: ###
 
